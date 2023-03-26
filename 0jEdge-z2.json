@@ -1,0 +1,58 @@
+{
+  "manifest": {
+    "author": "GL513#3166",
+    "version": "0.0.1",
+    "name": "0jEdge",
+    "transparency_mode": 0,
+    "license": "GPL3"
+  },
+  "background": {},
+  "simple_colors": {
+    "background": -16777216,
+    "input_background": -13487566,
+    "statusbar": -16777216,
+    "accent": -27136,
+    "active_channel": -27136,
+    "background_secondary": -16777216
+  },
+  "colors": {
+    "primary_dark_360": -8355712,
+    "white_500": -1,
+    "uikit_settings_item_text_color_light": -13487566,
+    "primary_dark_200": -1,
+    "primary_700": -16777216,
+    "primary_dark_800": -16777216,
+    "primary_dark_300": -8355712,
+    "uikit_btn_compound_color_selector_dark": -16711681,
+    "status_yellow_500": -256,
+    "status_yellow_500_alpha_10": 452984576,
+    "brand_new_260": -256,
+    "brand_500_alpha_20": 872414976,
+    "brand_new_560": -16776961,
+    "primary_dark_660": -13487566,
+    "primary_dark_630": -16777216,
+    "uikit_btn_bg_color_selector_green": -16711936,
+    "uikit_btn_bg_color_selector_brand": -27136,
+    "link": -16711681,
+    "primary_dark_330": -8355712,
+    "uikit_settings_item_text_color_dark": -1,
+    "notification_icon_bg_color": -39936
+  },
+  "drawable_tints": {
+    "ic_status_online_16dp": -16711936,
+    "ic_status_idle_16dp": -256,
+    "ic_status_dnd_16dp": -65536,
+    "ic_status_invisible_16dp": -8355712,
+    "drawable_bg_reaction_dark": 620757247,
+    "ic_sidebar_pins_off_dark_24dp": -27136,
+    "drawable_notifications_badge_border_color_tabs_background": -1556930,
+    "drawable_tag_brand": -27136,
+    "ic_sidebar_notifications_on_dark_24dp": -27136,
+    "ic_sidebar_notifications_off_dark_24dp": -1556930,
+    "ic_mobile": -16711936,
+    "ic_channel_text": -1,
+    "ic_sidebar_search_24dp": -1556930,
+    "ic_search_grey_24dp": -1556930,
+    "ic_upload_plus_32dp": -27136
+  }
+}
